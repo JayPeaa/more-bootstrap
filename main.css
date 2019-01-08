@@ -55,11 +55,12 @@ header{
 }
 
 footer{
-    height: 20vh;
-    background-color: pink;
-    color: white;
+    background-color: blue;
     text-align: center;
     text-transform: uppercase;
+    color: white;
+    width: inherit;
+    padding: 25px;
 }
 
 h1{
