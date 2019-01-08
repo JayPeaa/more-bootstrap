@@ -1,0 +1,72 @@
+b{
+    font-size: 21;
+    
+}
+
+nav{
+    background-color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    width: inherit;
+    padding: 25px;
+    
+}
+
+header{
+    height: 500px;
+    background-color: #3C3744;
+    display: flex;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+}
+
+.hero-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: inherit;
+}
+
+.row{
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left:-15px;
+    text-align: center;
+    align-items: center;
+}
+
+.Picture-1,
+.Picture-4,
+.Picture-5{
+    background-color: darkblue;
+    height: 250px;
+}
+
+
+.Picture-2,
+.Picture-3,
+.Picture-6{
+   background-color: lightblue; 
+   height: 250px;
+}
+
+footer{
+    height: 20vh;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1{
+    width: inherit;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+}
